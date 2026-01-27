@@ -61,12 +61,12 @@ dymamic-prompt-colorizer - installable trough sewer, _**does**_ need default dyn
 
 ```sewer -ls``` - lists ALL packages
 
-```sewer -fetch <pkg>``` - "uh hello, do you have <pkg>?" "uhhhh lemme check in the back if we have some <pkg>"
+```sewer -fetch <pkg>``` - "uh hello, do you have any < pkg > ?" "uhhhh lemme check in the back if we have some < pkg > "
 
 ```sewer -d <pkg>``` - delete mister/missus package
 
 ```config cln``` - removes commands for packages that are no longer installed, from the config *will be added eventually*
 
-Jan 27th 11:07pm 2026
+Jan 27th 11:11pm 2026
 
 also happy new year folks!
