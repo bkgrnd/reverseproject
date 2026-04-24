@@ -1,5 +1,15 @@
 # Welcome to the Reverse Project! 👋
-<img width="875" height="157" alt="image" src="https://github.com/user-attachments/assets/ca733445-a9b3-4c29-a9c1-3bd49ae4ad6c" />
+```
+                                                       _           _   
+          Its always for shits and giggles.           (_)         | |  
+  _ __ _____   _____ _ __ ___  ___     _ __  _ __ ___  _  ___  ___| |_ 
+ | '__/ _ \ \ / / _ \ '__/ __|/ _ \   | '_ \| '__/ _ \| |/ _ \/ __| __|
+ | | |  __/\ V /  __/ |  \__ \  __/   | |_) | | | (_) | |  __/ (__| |_ 
+ |_|  \___| \_/ \___|_|  |___/\___(_) | .__/|_|  \___/| |\___|\___|\__|
+                                      | |            _/ |              
+                                      |_|           |__/               
+               
+```
    
 
 Spreading the **legendary** glassOS / reverse7 / reverse reborn / reverse plague since 2023 🦠
@@ -27,7 +37,7 @@ The Reverse Project is a simulated operating system built in Python, solely mean
 reverse uses _**sewer**_ as its NEW package manager.
 
 - it replaces the old and VERY bad **spm** 
-- it’s actually fucking usable!!!111111
+- it’s actually usable!!!111111
 - it pulls from the same package folder so 100% compatibility with spm packages
 - "good" syntax
   
