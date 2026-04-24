@@ -1,72 +1,75 @@
-# Welcome to the reverse project!
-<img width="623" height="474" alt="image" src="https://github.com/user-attachments/assets/adedef8c-a208-4778-b29b-fd6fba3fdfac" />
+# Welcome to the Reverse Project! 👋
+<img width="875" height="157" alt="image" src="https://github.com/user-attachments/assets/ca733445-a9b3-4c29-a9c1-3bd49ae4ad6c" />
+   
 
-Spreading the godawful glassos,reverse7,reverse reborn,reverse plauge since 2023
-# whats this reverse project all about?
-1. Stupid & useless passion project, BUT I ENJOY WORKING ON IT!
-2. Made because i wanted to make my teacher angry
-3. Somehow my best, worst & biggest project to date
-4. Funny FOSS simulated unix ripoff
-5. Shits and giggles, to be honest.
+Spreading the **legendary** glassOS / reverse7 / reverse reborn / reverse plague since 2023 🦠
 
+---
 
-## New stuff/info
-base build 2
+## 🤔 what is this?
 
-<img width="1056" height="212" alt="image" src="https://github.com/user-attachments/assets/45f1681a-1547-4bd5-95db-db1035872979" />
-To use your dev_config.txt just rename it to config.rvrs and it SHOULD work. (99.99% guarantee)
+The Reverse Project is a simulated operating system built in Python, solely meant to waste my time on when i dont feel like doing ANYTHING productive.  
 
-## new packages
-_**Cowsay**_ ```sewer -i cowsay```
+---
 
-<img width="317" height="223" alt="image" src="https://github.com/user-attachments/assets/b9c7f94e-d3e4-4cb0-80a9-fada47c4e0be" />
+## 🧠 why does this exist?
 
-_**Fortune**_ ```sewer -i fortune```
+- a stupid & useless passion project, but i enjoy working on it  
+- originally made to mildly infuriate my teacher
+- somehow my best, worst, and biggest project at the same time  
+- a FOSS, "unix-inspired" "operating system"
+- built mostly for shits and giggles because why not
 
-<img width="683" height="221" alt="image" src="https://github.com/user-attachments/assets/b114a1da-cfbf-4dee-8cb9-d885243e8566" />
+---
 
+## 🚰 package manager
 
+reverse uses _**sewer**_ as its NEW package manager.
 
+- it replaces the old and VERY bad **spm** 
+- it’s actually fucking usable!!!111111
+- it pulls from the same package folder so 100% compatibility with spm packages
+- "good" syntax
+  
+      sewer -ub
+      updates base
+      
+      sewer -i <pkg>  
+      installs the package  
 
+      sewer -us  
+      updates itself  
 
+> ⚠️ SPM is deprecated and will not receive further updates  
 
+---
 
+## ⏳ coming soon™
 
+envy — GNU nano–inspired editor  
+dfedit — default editor (like envy, but worse)  
+ls — you already know what this does  
+mv — move files and folders  
+rename — does exactly what you think  
 
+dynamic-prompt — installable via sewer (background task, i will focus on other stuff first… (pun not intended))  
+dynamic-prompt-colorizer — installable via sewer, **requires dynamic-prompt** (same excuse as normal dynamic-prompt)  
 
-## what is sewer?
+sewer -ls — lists ALL packages  
+sewer -fetch <pkg> — "uh hello, do you have any <pkg>?" "uhhh lemme check in the back if we have some <pkg>"  
+sewer -d <pkg> — delete package  
+config cln — removes commands for packages that are no longer installed from the config (will be added eventually)
 
-sewer is the new package manager for reverse. its alot better than spm but you do need spm to install sewer.
-<img width="623" height="474" alt="image" src="https://github.com/user-attachments/assets/097e7288-6731-4faf-8353-ff0ca7765b86" />
+---
 
-sewer shares packages with spm, so you can everything can be installed through both
+---
 
-SPM IS DEPRECIATED BTW, IT WILL NOT BE UPDATED PAST THIS POINT
-
-## coming soon™
-
-envy - gnu nano clone
-
-dfedit - default text editor, will be like envy but way worse
-
-ls - i feel like you already know what this does
-
-mv - move file/folder from somewhere to somewhere (the sequel)
-
-rename - GUESS WHAT THIS THING DOES!
-
-dyanmic-prompt - installable trough sewer (put as background task aka i will focus on other stuff before this (pun not intended))
-
-dymamic-prompt-colorizer - installable trough sewer, _**does**_ need default dynamic prompt (put as background task aka i will focus on other stuff before this (pun not intended))
-
-```sewer -ls``` - lists ALL packages
-
-```sewer -fetch <pkg>``` - "uh hello, do you have any < pkg > ?" "uhhhh lemme check in the back if we have some < pkg > "
-
-```sewer -d <pkg>``` - delete mister/missus package
-
-```config cln``` - removes commands for packages that are no longer installed, from the config *will be added eventually*
-
-Jan 27th 11:11pm 2026
-
-also happy new year folks!
+## 📫 contact
+for questions, ideas, or just to say hi:
+**discord: @bkgrnd**
+  
+---
+  
+## 📅 note    
+Release schedule: every 32nd of the month  
+NONE of this is coming soon, since school currently has me in a chokehold.  
