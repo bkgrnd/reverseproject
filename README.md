@@ -74,12 +74,12 @@ config cln — removes commands for packages that are no longer installed from t
 
 ---
 
-## 📫 contact
-for questions, ideas, or just to say hi:
+## 📫 contact  
+for questions, ideas, or just to say hi:  
 **discord: @bkgrnd**
   
 ---
   
 ## 📅 note    
-Release schedule: every 32nd of the month  
-NONE of this is coming soon, since school currently has me in a chokehold.  
+Release schedule: every 32nd of the month    
+NONE of this is coming soon, since school currently has me in a chokehold.              
